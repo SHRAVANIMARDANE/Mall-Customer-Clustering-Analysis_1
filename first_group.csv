@@ -1,0 +1,23 @@
+CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100)
+2,Male,21,15,81
+4,Female,23,16,77
+6,Female,22,17,76
+8,Female,23,18,94
+10,Female,30,19,72
+12,Female,35,19,99
+14,Female,24,20,77
+16,Male,22,20,79
+18,Male,20,21,66
+20,Female,35,23,98
+22,Male,25,24,73
+24,Male,31,25,73
+26,Male,29,28,82
+28,Male,35,28,61
+30,Female,23,29,87
+32,Female,21,30,73
+34,Male,18,33,92
+36,Female,21,33,81
+38,Female,30,34,73
+40,Female,20,37,75
+42,Male,24,38,92
+46,Female,24,39,65
